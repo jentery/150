@@ -25,7 +25,7 @@ Experiment with a text editor (from list provided) and use it to document and sh
 
 Corresponding myth: *The Neutral Instrument* 
 
-Related scholarship and history: Gitelman, *Paper Knowledge*; Latour, *Science in Action*; Barad, *Meeting the Universe Halfway*  
+Related scholarship and history: Halberstam, ["Unlearning"](https://www.mlajournals.org/doi/abs/10.1632/prof.2012.2012.1.9); Gitelman, *Paper Knowledge*; Latour, *Science in Action*; Barad, *Meeting the Universe Halfway*  
 
 Related art and fiction: Shelley, *Frankenstein; or, The Modern Prometheus*; Jackson, *my body — a Wunderkammer*
 
