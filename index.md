@@ -117,4 +117,4 @@ Corresponding myths: *Screen Essentialism* and *Binary*
 
 Related scholarship and history: Anthropy, *Rise of the Videogame Zinesters*; Radway, "Zines, Half-Lives, and Afterlives"; Russ, "Speculations" 
 
-Related art and fiction: zines in UVic Special Collections and at (https://itch.io/search?q=zines), (http://mimionuoha.com/projects/), (https://shop.bubblesort.io/), (https://jvns.ca/), and (http://spinweaveandcut.com/making-tools-and-minicomics/)
+Related art and fiction: zines/comics in UVic Special Collections, at [Itch](https://itch.io/search?q=zines), and by [Mimi Onuoha](http://mimionuoha.com/projects/), [Amy Wibowo](https://shop.bubblesort.io/), [Julia Evans](https://jvns.ca/), and [Nick Sousanis](http://spinweaveandcut.com/making-tools-and-minicomics/)
