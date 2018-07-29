@@ -1,5 +1,5 @@
 # Unlearning the Internet (DHum 150, Spring 2019 @ UVic)
-Jentery Sayers 
+Jentery Sayers, UVic English 
 
 **DRAFT** (notes for course development)
 
@@ -21,7 +21,7 @@ Order of prompts to be determined. More prompts to be added, too.
 
 ### Use Markdown to Document Your Research
 
-Experiment with a text editor (from list provided) and use it to document and share your research and learning this term. Think about where documentation goes, who sees it, for whom it's written, and under what assumptions about design, development, and community.  
+Experiment with a text editor (from list provided) and use it to document and share your research and learning this term. Think about where documentation goes, who sees it, for whom it's written, and under what assumptions about design, development, and community. How is it a form of writing? What values are at play? 
 
 Corresponding myth: *The Neutral Instrument* 
 
@@ -51,7 +51,7 @@ Related art and fiction: Short, *Galatea*; Di Filippo, “Phylogenesis”
 
 ### Locate Local Network Infrastructures
 
-Use materials provided to study parts of Victoria and create brief tours of local network infrastructure. Think about the land you're on and its histories. Also think about "invisible technologies." 
+Use materials provided to study parts of Victoria (Coast Salish Territory) and create brief accounts of local network infrastructure. Think about the land you're on and its histories. Also think about "invisible technologies" and technologies of extraction.   
 
 Corresponding myth: *Landless Territory* 
 
@@ -61,11 +61,11 @@ Related art and fiction: Dillon (ed.), *Walking the Clouds*; Weiser, "The Comput
 
 ### Audit an Algorithm (Bug Bounty Optional) 
 
-Rate an algorithm (from list provided) and identify biases at play. Find a bug! Think about the relationships between algorithms, trust, and agency.  
+Rate an algorithm (from list provided) and identify biases at play. Find a bug! Think about the relationships between algorithms, trust, and agency. Also think about how attention and data produce value. 
 
 Corresponding myth: *Autonomy of Algorithms/Technologies*
 
-Related scholarship and history: Sandvig et al., ["Auditing Algorithms"](http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf); Caplan et al., ["Algorithmic Accountability"](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf); Granovetter, "The Strength of Weak Ties"; Aneesh, *Virtual Migration* 
+Related scholarship and history: Sandvig et al., ["Auditing Algorithms"](http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf); Caplan et al., ["Algorithmic Accountability"](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf); Granovetter, "The Strength of Weak Ties"; Aneesh, *Virtual Migration*; Beller, *The Cinematic Mode of Production*
 
 Related art and fiction: Butler, *Dawn*; Dick, *Do Androids Dream of Electric Sheep?*; Leckie, *Ancillary Justice* 
 
@@ -79,9 +79,19 @@ Related scholarship and history: Noble, *Algorithms of Oppression*; Browne, ["Di
 
 Related art and fiction: Abel, *Injun*; Sonia Landy Sheridan; Allison Parrish; Darius Kazemi; OuLiPo 
 
+### Prototype an Interface for Consent 
+
+Select a website you use regularly, and then sketch or wireframe a consent interface for it. Think about how machines and networks need data, how they convert and use it, and what you're willing to share ("personal data"). Also think about the right to be forgotten.  
+
+Corresponding myth: *Prototypes Aren't Real* 
+
+Related scholarship and history: [*A DIY Guide to Feminist Cybersecurity*](https://hackblossom.org/cybersecurity/)
+
+Related art and fiction: Jemisin, “Cloud Dragon Skies"
+
 ### Use Browser Dev Tools to Engage Assistive Tech
 
-Identify a website (from list provided) and use a browser development tool and/or WAVE to assess the site's engagement with assistive technologies. Think about how all technologies are assistive and how audiences are addressed through web design and dev.  
+Identify a website (from list provided) and use a browser development tool such as WAVE to assess the site's engagement with assistive technologies. Think about how all technologies are assistive and how audiences are addressed through web design and dev.  
 
 Corresponding myths: *Technology as Extension and/or Cure* 
 
@@ -93,7 +103,7 @@ Related art and fiction: CRIPSiE; Bear, *Blood Music*; Le Guin, *The Dispossesse
 
 Select some historical media (from list provided), open it in a text editor, and "bend" or "glitch" it. Save the results. Talk with UVic librarians (according to schedule provided) about their digital scholarship and media archaeology initiatives. Think about how maintenance and formats play a role in digital preservation. 
 
-Corresponding myths: *Original and Copy* and *Automation*
+Corresponding myths: *Automation* and *Original and Copy* 
 
 Related scholarship and history: Grigar and Moulthrop, *Traversals*; Menkman, "Vernacular of File Formats"; Lee et al., ["From Bitstreams to Heritage"](https://drum.lib.umd.edu/bitstream/handle/1903/14736/bitstreams-to-heritage.pdf?sequence=1&isAllowed=y); Rosner et al., [*Reclaiming Repair*](http://faculty.washington.edu/dkrosner/repair/index.html); Sterne, *MP3* 
 
@@ -105,6 +115,6 @@ Alone or in small groups (2-3 people), make a zine about a technocutlural issue 
 
 Corresponding myths: *Screen Essentialism* and *Binary*
 
-Related scholarship and history: Anthropy, *Rise of the Videogame Zinesters*; Radway, "Zines, Half-Lives, and Afterlives"
+Related scholarship and history: Anthropy, *Rise of the Videogame Zinesters*; Radway, "Zines, Half-Lives, and Afterlives"; Russ, "Speculations" 
 
-Related art and fiction: zines in UVic Special Collections and at https://itch.io/search?q=zines, http://mimionuoha.com/projects/, https://shop.bubblesort.io/, https://jvns.ca/, and http://spinweaveandcut.com/making-tools-and-minicomics/
+Related art and fiction: zines in UVic Special Collections and at (https://itch.io/search?q=zines), (http://mimionuoha.com/projects/), (https://shop.bubblesort.io/), (https://jvns.ca/), and (http://spinweaveandcut.com/making-tools-and-minicomics/)
