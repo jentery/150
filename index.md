@@ -19,7 +19,7 @@ Lectures and workshops will combine material from media history, science and tec
 
 Order of prompts to be determined. More prompts to be added, too.  
 
-**Use Markdown to Document Your Research**
+### Use Markdown to Document Your Research
 
 Experiment with a text editor (from list provided) and use it to document and share your research and learning this term. Think about where documentation goes, who sees it, for whom it's written, and under what assumptions about design, development, and community.  
 
@@ -29,7 +29,7 @@ Related scholarship and history: Gitelman, *Paper Knowledge*; Latour, *Science i
 
 Related art and fiction: Shelley, *Frankenstein; or, The Modern Prometheus*; Jackson, *my body — a Wunderkammer*
 
-**Use Metadata to Attribute Unattributed Labour** 
+### Use Metadata to Attribute Unattributed Labour 
 
 Research an old technology (from list provided) and provide metadata (probably Dublin Core) for it. Include a list of who contributed to the technology, from ideation and design to development, maintenance, and sunsetting. Think about how labour escapes and is also elided from records, as well as how it's shaped by metadata fields/labels.   
 
@@ -39,7 +39,7 @@ Related scholarship and history: Hicks, *Programmed Inequality*; Nakamura, ["Don
 
 Related art and fiction: Moore, "No Woman Born"; Bosanquet, *Henry James at Work*  
 
-**Use Pen + Paper to Learn Some Unix Commands**
+### Use Pen + Paper to Learn Some Unix Commands
 
 Paper prototype a few Unix commands to get a sense of how they mediate our relationships with technologies and computation. Think about the relationship between the command line, interface, and control.  
 
@@ -49,7 +49,7 @@ Related scholarship and history: Chun, ["On 'Sourcery,' or Code as Fetish"](http
 
 Related art and fiction: Short, *Galatea*; Di Filippo, “Phylogenesis”
 
-**Locate Local Network Infrastructures**
+### Locate Local Network Infrastructures
 
 Use materials provided to study parts of Victoria and create brief tours of local network infrastructure. Think about the land you're on and its histories. Also think about "invisible technologies." 
 
@@ -59,7 +59,7 @@ Related scholarship and history: Duarte, *Network Sovereignty*; Cushman, "Wampum
 
 Related art and fiction: Dillon (ed.), *Walking the Clouds*; Weiser, "The Computer for the 21st Century" 
 
-**Audit an Algorithm (Bug Bounty Optional)** 
+### Audit an Algorithm (Bug Bounty Optional) 
 
 Rate an algorithm (from list provided) and identify biases at play. Find a bug! Think about the relationships between algorithms, trust, and agency.  
 
@@ -69,7 +69,7 @@ Related scholarship and history: Sandvig et al., ["Auditing Algorithms"](http://
 
 Related art and fiction: Butler, *Dawn*; Dick, *Do Androids Dream of Electric Sheep?*; Leckie, *Ancillary Justice* 
 
-**Use an Algorithm to Create Something** 
+### Use an Algorithm to Create Something
 
 Experiment with "capture" software (from a list provided) to create or stitch together something familiar yet unfamiliar. Think about the assumptions of proof and evidence at play in computer vision and capture technologies (e.g., photography and phonography). 
 
@@ -79,7 +79,7 @@ Related scholarship and history: Noble, *Algorithms of Oppression*; Browne, ["Di
 
 Related art and fiction: Abel, *Injun*; Sonia Landy Sheridan; Allison Parrish; Darius Kazemi; OuLiPo 
 
-**Use Browser Dev Tools to Engage Assistive Tech** 
+### Use Browser Dev Tools to Engage Assistive Tech
 
 Identify a website (from list provided) and use a browser development tool and/or WAVE to assess the site's engagement with assistive technologies. Think about how all technologies are assistive and how audiences are addressed through web design and dev.  
 
@@ -89,7 +89,7 @@ Related scholarship and history: Hendren, ["All Technology Is Assistive"](https:
 
 Related art and fiction: CRIPSiE; Bear, *Blood Music*; Le Guin, *The Dispossessed* and "The Ones Who Walk Away from Omelas"
 
-**Use a Text Editor to Open and Bend a File**
+### Use a Text Editor to Open and Bend a File
 
 Select some historical media (from list provided), open it in a text editor, and "bend" or "glitch" it. Save the results. Talk with UVic librarians (according to schedule provided) about their digital scholarship and media archaeology initiatives. Think about how maintenance and formats play a role in digital preservation. 
 
@@ -99,7 +99,7 @@ Related scholarship and history: Grigar and Moulthrop, *Traversals*; Menkman, "V
 
 Related art and fiction: *Agrippa: A Book of the Dead*; Holzer's Redaction Paintings; Chiang, *The Lifecycle of Software Objects*    
 
-**Make a Zine about Technoculture**
+### Make a Zine about Technoculture
 
 Alone or in small groups (2-3 people), make a zine about a technocutlural issue important to you. Feel free to be a fan. But also think about the zine as a space of creative + critical expression, with an element of pedagogy. You can teach people about something. Visit Special Collections (according to schedule provided) to get a sense of zine history, politics, and aesthetics. We'll hold a zine fest at the end of term. Your zine should be tactile, but may of course involve digital means.    
 
