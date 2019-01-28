@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		
+		<!-- TITLE OF PRESENTATION -->
+		<title>Data as a System | Jentery Sayers</title>
+		
+		<!-- DESCRIPTION OF PRESENTATION  -->
+		<meta name="description" content="Standards, 21 January 2019">
+		
+		<!-- AUTHOR --> 
+		<meta name="author" content="Jentery Sayers">
+		
+		<!-- RESPONSIVE DESIGN -->
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		
+		<!-- CSS FOR THE FRAMEWORK -->
+		<link rel="stylesheet" href="css/reveal.min.css">
+		
+		<!-- CSS FOR PRESENTATION CONTENT -->
+		<link rel="stylesheet" href="css/theme.css" id="theme">
+	
+		<!-- CSS FOR SYNTAX HIGHLIGHTING -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+	</head>
+	
+	<!-- BEGIN SLIDEDECK -->
+	
+	<body>
+		<div class="reveal">
+		<div class="slides">
+		<!-- BEGIN SLIDES -->	
+
+	<section id="hi">
+  	<h1>Data as a System</h1>
+  	<h3>Jentery Sayers | Unlearning the Internet | Week 4<br>DHum 150 | UVic English | 28 January 2019<br>Slides Online: <a href="http://jentery.github.io/150/slides/week4m" target="_blank">jentery.github.io/150/slides/week4m</a></h3>
+  	<small>Use your left + right arrow keys to navigate this slidedeck.<br>This survey is not intended to be exhauastive.</small>
+  	</section>
+
+  	<section id="rawdata">
+  		<h1>"Raw" Data</h1>
+  		<h3>What does that term mean to you?</h3>
+  	</section>
+
+  	<section id="cooked">
+  		<h1>Data Is Cooked</h1>
+  		<h3>Not taken or given but produced<br>
+  		Is structured<br>
+  		May follow a standard<br>
+  	Has a date<br>
+  	May be produced by or for certain software<br>
+  	May imply a perspective<br>
+  Is proceseed and expressed<br>
+Relies on absence (what's not measured or collected)</h3>
+  	</section>
+
+<section id="system">
+	<h1>Jer Thorp</h3>
+	<h3>An over-simplified and dangerously reductive diagram of a data system might look like this:</h3>
+
+<h3><em>Collection → Computation → Representation</em></h3>
+<h3>Whenever you look at data — as a spreadsheet or database view or a<br> visualization, you are looking at an artifact of such a system.</h3>
+
+<small>See Jer Thorp, <a href="https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421" target="_blank">"You Say Data, I Say System"</a></small></section>
+
+<section id="onuoha">
+	<h1>Mimi Onuoha</h1>
+	<p><iframe src="https://player.vimeo.com/video/219717800?title=0&byline=0&portrait=0" width="640" height="469" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+
+	<small>See <a href="https://vimeo.com/219717800">"Missing Data Sets"</a> on Vimeo</small></section>
+
+<section id="exercise">
+	<h1>Exercise for Today</h1>
+
+	<h3>Visit Onuoha's repo for <a href="https://github.com/MimiOnuoha/missing-datasets" target="_blank"><em>The Library of Missing Datasets</em></a>:<br>github.com/MimiOnuoha/missing-datasets</h3>
+	<h3>Use 50-150 words to:<br>
+		Argue for a dataset (not on her list) that could or should exist.<br>
+	Name the missing dataset.<br>
+	Describe data types (integer, Boolean, character, date, time, or location).<br> 
+	Identify intended audience. (Be specific.)<br> 
+	State intended form of expression (graph, map, chart, table, or sculpture).<br>
+	Explain the primary purpose. (Be specific.)</h3> 
+<h3>Feel free to sketch or diagram these components (as images in your log), and to note where applicable any obstacles to your missing dataset’s existence. Also, feel free to start with an idea and then reverse-engineer it. </h3>
+
+    <small>Return to the <a href="https://jentery.github.io/150/">course website</a>.</small>
+
+</section>
+
+		<!-- Close slides div-->
+		</div>
+		<!-- END SLIDES--> 
+		
+		<!-- BEGIN TRANSITION AND NAVIGATION STYLES / FEATURES --> 
+		
+	<!-- initialize reveal.js + related javascripts --> 
+	
+	<script src="lib/js/head.min.js"></script>
+	<script src="js/reveal.min.js"></script>
+	<script>			
+	Reveal.initialize({
+        
+    // Display controls in the bottom right corner
+    controls: false,
+
+    // Display a presentation progress bar
+    progress: true,
+
+    // Push each slide change to the browser history
+    history: true,
+
+    // Enable keyboard shortcuts for navigation
+    keyboard: true,
+
+    // Enable touch events for navigation
+    touch: true,
+    
+    // Enable an annoying rollover effect for links 
+    rollingLinks: false,
+
+    // Enable the slide overview mode
+    overview: true,
+
+    // Vertical centering of slides
+    center: true,
+
+    // Loop the presentation
+    loop: false,
+
+    // Change the presentation direction to be RTL
+    rtl: false,
+
+    // Number of milliseconds between automatically proceeding to the next slide, disabled when set to 0, this value can be overwritten by using a data-autoslide attribute on your slides
+    autoSlide: 0,
+
+    // Enable slide navigation via mouse wheel
+    mouseWheel: false,
+
+    // Transition style
+    transition: 'none', // default/cube/page/concave/zoom/linear/fade/none
+
+    // Transition speed
+    transitionSpeed: 'fast', // default/fast/slow
+
+    // Transition style for full page backgrounds
+    backgroundTransition: 'none', // default/linear/none
+        
+    // Optional libraries used to extend reveal.js | affords syntax highlighting + editing, zoom, speaker notes, and markdown
+		dependencies: [
+		{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+		{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+		{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+		{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+		{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+		{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+		]
+			});
+	</script>	
+	</body>
+	<!-- END SLIDEDECK--> 	
+</html>
